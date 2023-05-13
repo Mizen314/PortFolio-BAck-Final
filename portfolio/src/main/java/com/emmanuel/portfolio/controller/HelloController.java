@@ -29,8 +29,7 @@ public class HelloController {
 				<title>Awesome API REST</title>
 				</head>
 				<body>
-				<h1 style="color:red;">Bienvenido a la API extraterrestre</h1>
-				<a href="/api/cars">Cars Database</a>
+				<h1 style="color:red;">Api de Emmanuel - G417</h1>
 				
 				</body>
 				</html>
