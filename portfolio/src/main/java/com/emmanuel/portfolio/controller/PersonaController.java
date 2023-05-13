@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
-@CrossOrigin(origins = "*")
+@CrossOrigin(origins = "https://emma-portfolio-55638.web.app/")
 public class PersonaController {
 //atributo
 private PersonaService personaService;
