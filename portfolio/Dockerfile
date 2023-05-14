@@ -1,7 +1,7 @@
 
 FROM amazoncorretto:20
 
-MANTAINER Mizen314
+LABEL maintainer="Mizen314"
 
 COPY target/portfolio-0.0.5-Final.jar portfolio-0.0.5-Final.jar 
 
